@@ -5,3 +5,9 @@ h1{
 #bt{
     padding:10px;
 }
+form, form input{
+    padding:10px;
+}
+form input{
+    margin:10px;
+}
